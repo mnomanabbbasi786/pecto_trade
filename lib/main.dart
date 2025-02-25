@@ -39,7 +39,7 @@ class WebViewAppState extends State<WebViewApp> {
   late StreamSubscription<ConnectivityResult> _connectivitySubscription;
   
   // Replace with your website URL
-  final String url = 'https://example.com';
+  final String url = 'https://petco-trade.com';
   
   @override
   void initState() {
