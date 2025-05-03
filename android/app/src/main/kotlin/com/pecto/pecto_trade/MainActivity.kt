@@ -1,4 +1,4 @@
-package com.example.pecto_trade
+package com.pecto.pecto_trade
 
 import io.flutter.embedding.android.FlutterActivity
 
